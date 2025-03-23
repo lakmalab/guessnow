@@ -4,7 +4,6 @@ let tries = 3
 let number = Math.floor(Math.random() * 10);
 
 
-
     function clickhello(){
         let guesed = document.getElementById("hello3").value
       
